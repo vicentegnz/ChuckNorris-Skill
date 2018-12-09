@@ -1,0 +1,16 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ChuckNorris-AlexaSkill/bin
+/ChuckNorris-AlexaSkill/obj
+/ChuckNorris-AlexaSkill/obj
+/ChuckNorris-AlexaSkill/bin/Debug
+
+
+.vs
+ChuckNorris-AlexaSkill/bin
+ChuckNorris-AlexaSkill/obj
+ChuckNorris-AlexaSkill/obj
+ChuckNorris-AlexaSkill/bin/Debug
