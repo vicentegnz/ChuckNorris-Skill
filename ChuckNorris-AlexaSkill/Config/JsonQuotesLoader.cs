@@ -11,7 +11,7 @@ namespace ChuckNorrisAlexaSkill
     {
         #region "Const"
         
-        private const string JSON_FILE = "JokesAboutChuckNorris.json";
+        private const string JSON_FILE = "data.json";
 
         #endregion
 

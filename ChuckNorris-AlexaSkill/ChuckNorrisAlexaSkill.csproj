@@ -16,6 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="data.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="JokesAboutChuckNorris.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
