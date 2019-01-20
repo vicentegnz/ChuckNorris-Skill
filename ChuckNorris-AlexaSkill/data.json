@@ -1,742 +1,714 @@
 [
-   {
-      "Id":1,
-      "Quote":"Las lágrimas de Chuck Norris curan el cáncer. Lo malo es que él nunca ha llorado. Jamás."
-   },
-   {
-      "Id":2,
-      "Quote":"Chuck Norris no duerme. Espera."
-   },
-   {
-      "Id":3,
-      "Quote":"Chuck Norris ha denunciado a la NBC, diciendo que Ley y Orden son los nombres registrados de sus piernas."
-   },
-   {
-      "Id":4,
-      "Quote":"La mayor exportación de Chuck Norris es dolor."
-   },
-   {
-      "Id":5,
-      "Quote":"Si puedes ver a Chuck Norris, él te puede ver a ti. Si no puedes ver a Chuck Norris, seguramente estás a pocos segundos de la muerte."
-   },
-   {
-      "Id":6,
-      "Quote":"Chuck Norris ha contado hasta el infinito. Dos veces."
-   },
-   {
-      "Id":7,
-      "Quote":"Chuck Norris no sale de caza porque la palabra \"caza\" implica probabilidad de fallo. Chuck Norris sale a matar."
-   },
-   {
-      "Id":8,
-      "Quote":"4 de 5 médicos dijeron que Chuck Norris no era la solución a muchos problemas. El 80% de los médicos murieron sin explicación, de una muerte brutal."
-   },
-   {
-      "Id":9,
-      "Quote":"Chuck Norris es 1/8 Cherokee. No tiene nada que ver con sus ancestros, es que se comió un indio."
-   },
-   {
-      "Id":10,
-      "Quote":"En la última página del libro Guinness de los Récords, se dice que todos ellos son de Chuck Norris, y los que salen en el libro son sólo aquellos que se acercaron más."
-   },
-   {
-      "Id":11,
-      "Quote":"No hay un mentón tras la barba de Chuck Norris. Solo hay otro puño."
-   },
-   {
-      "Id":12,
-      "Quote":"Una vez Chuck Norris dio una patada giratoria tan fuerte que su pié superó la velocidad de la luz, volvió atrás en el tiempo, y mató a Amelia Earhart (http://es.wikipedia.org/wiki/Amelia_Earhart) mientras sobrevolaba el océano pacífico."
-   },
-   {
-      "Id":13,
-      "Quote":"13.Los círculos del maíz son la forma de Chuck Norris de decir al mundo que a veces necesita tumbarse."
-   },
-   {
-      "Id":14,
-      "Quote":"Chuck Norris mide 3 metros de alto, pesa dos toneladas, escupe fuego, y podría comerse un martillo y recibir un disparo de escopeta sin caerse."
-   },
-   {
-      "Id":15,
-      "Quote":"La Gran Muralla China se creó al principio para mantener fuera a Chuck Norris. Fracasó estrepitosamente."
-   },
-   {
-      "Id":16,
-      "Quote":"Al contrario de lo que se cree, Chuck Norris, no es la medusa gigante del norte de Australia, es la criatura más venenosa de la Tierra. A los tres minutos de ser mordido, un humano experimenta los siguientes síntomas: fiebre, visión borrosa, crecimiento de la barba, apretón de vaqueros, y el sentimiento de estar siendo pateado a través del cristal de un coche."
-   },
-   {
-      "Id":17,
-      "Quote":"Si le preguntas a Chuck Norris qué hora es, siempre dice, \"Dos segundos para\". Tú preguntarás, \"Dos segundos para qué?\" y entonces te dará una patada giratoria."
-   },
-   {
-      "Id":18,
-      "Quote":"Chuck Norris conduce un camión de los helados cubierto de calaveras humanas."
-   },
-   {
-      "Id":19,
-      "Quote":"Cuando Chuck Norris envía su declaración de la renta, manda folios en blanco y una foto suya, agachado y preparado para atacar. Chuck Norris nunca pagará impuestos, jamás."
-   },
-   {
-      "Id":20,
-      "Quote":"La forma más rápida de llegar al corazón de un hombre es con el puño de Chuck Norris."
-   },
-   {
-      "Id":21,
-      "Quote":"Chuck Norris inventó la famosa receta de la Coca Cola, con once hierbas y especias. Pero nadie menciona nunca el duodécimo ingrediente: miedo."
-   },
-   {
-      "Id":22,
-      "Quote":"Chuck Norris puede ganar al Conecta Cuatro con tres movimientos."
-   },
-   {
-      "Id":23,
-      "Quote":"No existe la teoría de la evolución, solo una lista de criaturas que Chuck Norris deja vivir."
-   },
-   {
-      "Id":24,
-      "Quote":"Chuck Norris se comió una vez tres filetes de 2 kg. en una hora. Empleó los primeros 45 minutos en tirarse a la camarera."
-   },
-   {
-      "Id":25,
-      "Quote":"En una lucha entre Batman y Darth Vader, el ganador sería Chuck Norris."
-   },
-   {
-      "Id":26,
-      "Quote":"Chuck Norris es la única persona que ha derrotado a un muro de ladrillo jugando al tenis."
-   },
-   {
-      "Id":27,
-      "Quote":"La policía cataloga a cualquiera que ataque a Chuck Norris como un 45-11...un suicida."
-   },
-   {
-      "Id":28,
-      "Quote":"Chuck Norris no compra mantequilla. Da una patada giratoria a una vaca y la mantequilla sale sola."
-   },
-   {
-      "Id":29,
-      "Quote":"Chuck Norris no lava la ropa, la limpia de intestinos."
-   },
-   {
-      "Id":30,
-      "Quote":"Una plaza de aparcamiento para discapacitados no significa que sea para estos. Es en verdad una advertencia de que ese sitio pertenece a Chuck Norris y que serás un discapacitado si aparcas ahí."
-   },
-   {
-      "Id":31,
-      "Quote":"Chuck Norris será un estado en el 2009. La flor de su estado será la magnolia."
-   },
-   {
-      "Id":32,
-      "Quote":"En Nagasaki nunca cayó una bomba nuclear. Chuck Norris saltó de un avión y le dio un puñetazo al suelo."
-   },
-   {
-      "Id":33,
-      "Quote":"Chuck Norris aparecía en el Stree Fighter original, pero fue eliminado por los Beta Testers porque cualquier botón hacía que diera una patada giratoria. Cuando le preguntaron sobre ese \"fallo\", Norris respondió, \"No es un fallo\"."
-   },
-   {
-      "Id":34,
-      "Quote":"Ríete de mí, y maldito seas. Ríete de Chuck Norris y te joderá vivo."
-   },
-   {
-      "Id":35,
-      "Quote":"La introducción de la película \"Salvar al soldado Ryan\" está basada en una partida de balón prisionero que Chuck Norris jugó en el instituto."
-   },
-   {
-      "Id":36,
-      "Quote":"Chuck Norris derribó un avión alemán con su dedo, diciendo, \"Bang!\"."
-   },
-   {
-      "Id":37,
-      "Quote":"Chuck Norris se apostó con la NASA que podría sobrevivir a la entrada en la atmósfera sin traje espacial. El 19 de julio de 1999, un Chuck Norris en pelotas entró en la atmósfera terrestre, volando sobre 14 estados y alcanzando una temperatura de 3000 grados. La NASA anunció que era un meteoro, y aún le deben una cerveza."
-   },
-   {
-      "Id":38,
-      "Quote":"Chuck Norris tiene dos velocidades: Andar y Matar."
-   },
-   {
-      "Id":39,
-      "Quote":"Alguien intentó una vez decirle a Chuck Norris que las patadas giratorias no son la mejor forma de patear a alguien. Ha sido registrado por los historiadores como el peor error cometido nunca."
-   },
-   {
-      "Id":40,
-      "Quote":"Al contrario de lo que se cree, América no es una democracia, es una DictaNorrisdura."
-   },
-   {
-      "Id":41,
-      "Quote":"Las Tortugas Ninja están basadas en un hecho real: Chuck Norris se tragó una tortuga viva, y cuando la cagó, la tortuga medía 6 metros y sabía karate."
-   },
-   {
-      "Id":42,
-      "Quote":"Solo con tirar de sus dos extremos, Chuck Norris puede convertir el diamante en carbón."
-   },
-   {
-      "Id":43,
-      "Quote":"Más rápido que una bala...más poderoso que un tren....capaz de saltar edificios de un solo bote...si, estos son algunos de los ejercicios de calentamiento de Chuck Norris."
-   },
-   {
-      "Id":44,
-      "Quote":"Chuck Norris es el único humano capaz de mostrar el Principio de Indeterminación de Heisenberg (http://es.wikipedia.org/wiki/Principio_de_indeterminaci%C3%B3n_de_Heisenberg): nunca se puede saber exactamente dónde y cuán rápido te va a dar una patada giratoria en la cara."
-   },
-   {
-      "Id":45,
-      "Quote":"En la Biblia, Jesús convirtió el agua en vino. Y luego Chuck Norris convirtió el vino en cerveza."
-   },
-   {
-      "Id":46,
-      "Quote":"El Tiempo no espera a ningún hombre. A no ser que ese hombre sea Chuck Norris."
-   },
-   {
-      "Id":47,
-      "Quote":"Chuck Norris descubrió una nueva teoría de la relatividad que implica múltiples universos en los que Chuck Norris es incluso más machote que en este. Cuando fue descubierto y hecho público por Albert Einstein, Chuck Norris le dio una patada giratoria en la cara. Ahora Albert Einstein es conocido como Stephen Hawking."
-   },
-   {
-      "Id":48,
-      "Quote":"El cereal favorito de Chuck Norris son los Cantos Rodados y Gravilla de Kellogg."
-   },
-   {
-      "Id":49,
-      "Quote":"La unidad Chuck Norris del Civilización 4 fue eliminada porque una sola de ellas podía derrotar a todas las otras naciones unidas del mundo en un solo turno."
-   },
-   {
-      "Id":50,
-      "Quote":"En una habitación normal, hay 1242 objetos con los que Chuck Norris podría matarte, incluyendo la propia habitación."
-   },
-   {
-      "Id":51,
-      "Quote":"Plutón es en realidad un grupo de soldados ingleses de la Revolución Americana en órbita a quienes Chuck Norris dio una patada giratoria en la cara."
-   },
-   {
-      "Id":52,
-      "Quote":"Cuando Chuck Norris va a donar sangre, rechaza la jeringa, y pide una pistola y un cubo."
-   },
-   {
-      "Id":53,
-      "Quote":"No hay esteroides en el deporte. Solo hay jugadores a los que Chuck Norris ha echado el aliento."
-   },
-   {
-      "Id":54,
-      "Quote":"Una vez Chuck Norris retó a Lance Armstrong en un concurso de \"Quién tiene más huevos?\". Chuck Norris ganó por 5."
-   },
-   {
-      "Id":55,
-      "Quote":"Chuck Norris era el cuarto Rey Mago, que regaló a Jesús una barba que llevó hasta que murió. Los otros reyes magos estaban enfurecidos porque Jesús prefería el regalo de Chuck, y decidieron eliminarlo de la Biblia. Los tres murieron poco después debido a unas misteriosas heridas provocadas por una patada giratoria."
-   },
-   {
-      "Id":56,
-      "Quote":"Chuck Norris muda la piel dos veces al día."
-   },
-   {
-      "Id":57,
-      "Quote":"Cuando Chuck Norris llama a la una línea 806, no le cobran. Levanta el auricular y el dinero empieza a salir."
-   },
-   {
-      "Id":58,
-      "Quote":"Una vez Chuck Norris se comió una tarta entera antes de que sus amigos le pudieran decir que había una stripper dentro."
-   },
-   {
-      "Id":59,
-      "Quote":"Algunas personas comen ancas de rana. A Chuck Norris le gusta comer ancas de reptil. Ahora son serpientes."
-   },
-   {
-      "Id":60,
-      "Quote":"No existen razas, solo países con gente a la que Chuck Norris ha apalizado hasta ponerse en distintas sombras de azul y negro."
-   },
-   {
-      "Id":61,
-      "Quote":"Chuck Norris no puede acabar un juego de pinta y colorea porque todos sus rotuladores están llenos de la sangre de sus víctimas. Desgraciadamente, toda la sangre es roja oscura."
-   },
-   {
-      "Id":62,
-      "Quote":"Los científicos han estimado que la energía desarrollada en el Big Bang es más o menos igual a 1PGdCN (Patada Giratoria de Chuck Norris)."
-   },
-   {
-      "Id":63,
-      "Quote":"La casa de Chuck Norris no tiene puertas, solo muros que atraviesa."
-   },
-   {
-      "Id":64,
-      "Quote":"Una patada giratoria de Chuck Norris es el método de ejecución favorito de 16 estados."
-   },
-   {
-      "Id":65,
-      "Quote":"Cuando Chuck Norris se cae al agua no se moja. El agua se moja de Chuck Norris."
-   },
-   {
-      "Id":66,
-      "Quote":"Cuando Chuck Norris se acuesta con un hombre, no lo hace porque sea gay. Lo hará porque no le quedan mujeres."
-   },
-   {
-      "Id":67,
-      "Quote":"Chuck Norris no escribe libros, las letras se juntan solas por el miedo."
-   },
-   {
-      "Id":68,
-      "Quote":"En honor a Chuck Norris, todos los McDonald's de Texas tienen un tamaño incluso mayor que el super-size. Para pedirlo , tienes que decir Norrisgante."
-   },
-   {
-      "Id":69,
-      "Quote":"Si quisiera, una patada giratoria de Chuck Norris podría dar energía a Australia durante 44 minutos."
-   },
-   {
-      "Id":70,
-      "Quote":"Chuck Norris puede dividir por 0."
-   },
-   {
-      "Id":71,
-      "Quote":"La hierba es siempre más verde al otro lado, a no ser que Chuck Norris haya estado allí. Entonces la hierba está más bien llena de sangre y lágrimas."
-   },
-   {
-      "Id":72,
-      "Quote":"Una imagen vale más que mil palabras. Un Chuck Norris vale más que mil millones de palabras."
-   },
-   {
-      "Id":73,
-      "Quote":"La Tercera Ley de Newton esta mal: aunque afirma que para cada acción hay una reacción, no existe fuerza igual de reacción a una patada giratoria de Chuck Norris."
-   },
-   {
-      "Id":74,
-      "Quote":"Cuando se estrenó Walker, Ranger de Texas en Francia, los franceses se rindieron a Chuck Norris solo para estar en el lado seguro."
-   },
-   {
-      "Id":75,
-      "Quote":"Mientras mea, Chuck Norris es capaz de forjar titanio."
-   },
-   {
-      "Id":76,
-      "Quote":"Cuando Chuck Norris habla, todo el mundo escucha. Luego mueren."
-   },
-   {
-      "Id":77,
-      "Quote":"Wilt Chamberlain afirmaba que durmió con más de 20000 mujeres. Chuck Norris llama a eso un jueves tonto."
-   },
-   {
-      "Id":78,
-      "Quote":"Chuck Norris no se afeita; se da patadas en la cara. La única cosa que puede cortar a Chuck Norris es Chuck Norris."
-   },
-   {
-      "Id":79,
-      "Quote":"Para algunos, el testículo izquierdo es más grande que el derecho. Para Chuck Norris, cada testículo es más grande que el otro."
-   },
-   {
-      "Id":80,
-      "Quote":"Chuck Norris siempre sabe la situación EXACTA de Carmen Sandiego."
-   },
-   {
-      "Id":81,
-      "Quote":"Cuando te examines, escribe Chuck Norris en todas las respuestas y sacarás un 10."
-   },
-   {
-      "Id":82,
-      "Quote":"Chuck Norris inventó el negro. De hecho, inventó todo el espectro visible de luz. Excepto el rosa. Tom Cruise inventó el rosa."
-   },
-   {
-      "Id":83,
-      "Quote":"Cuando eres Chuck Norris, cualquier cosa + cualquier cosa = 1. Una patada giratoria en la cara."
-   },
-   {
-      "Id":84,
-      "Quote":"Chuck Norris tiene la mejor cara de poker de todos los tiempos. Ganó el Campeonato mundial de 1983, y eso que llevaba un comodín, una carta de \"queda libre de la cárcel\" del Monopoly, un 2 de bastos, un 7 de espadas y una carta verde del Pictionary."
-   },
-   {
-      "Id":85,
-      "Quote":"En su cumpleaños, Chuck Norris selecciona un niño al azar y lo lanza hacia el sol."
-   },
-   {
-      "Id":86,
-      "Quote":"Al principio no era nada...entonces Chuck Norris le dio una patada giratoria en la cara a la nada y dijo, \"busca trabajo\". Esa es la historia del Universo."
-   },
-   {
-      "Id":87,
-      "Quote":"Chuck Norris tiene 12 lunas. Una de ellas es la Tierra."
-   },
-   {
-      "Id":88,
-      "Quote":"Chuck Norris muele el café con sus dientes y hierve el agua con su furia."
-   },
-   {
-      "Id":89,
-      "Quote":"Unos arqueólogos desenterraron un diccionario del año 123. Definía \"víctima\" como alguien que se había encontrado con Chuck Norris."
-   },
-   {
-      "Id":90,
-      "Quote":"Chuck Norris pidió un Big Mac en un Burger King, y se lo dieron."
-   },
-   {
-      "Id":91,
-      "Quote":"Chuck Norris y Mr. T fueron a un bar. El bar fue destruído instantáneamente, ya que tal nivel de testosterona no lo puede soportar un solo edificio."
-   },
-   {
-      "Id":92,
-      "Quote":"Si buscas en el Google \"Chuck Norris siendo pateado en el culo\" generarás cero resultados. Eso nunca ha pasado."
-   },
-   {
-      "Id":93,
-      "Quote":"Chuck Norris puede beberse 4 litros de leche en 40 segundos."
-   },
-   {
-      "Id":94,
-      "Quote":"Un hecho médico poco conocido: Chuck Norris inventó las cesáreas cuando salió del útero de su madre con una patada giratoria."
-   },
-   {
-      "Id":95,
-      "Quote":"Chuck Norris no juega a los bolos. Solo tira uno y los otros se caen del miedo."
-   },
-   {
-      "Id":96,
-      "Quote":"A Chuck Norris le bastan 20 minutos para ver 60 minutos."
-   },
-   {
-      "Id":97,
-      "Quote":"Chuck Norris tiene un profundo respeto por la vida humana...a no ser que se cruce en su camino."
-   },
-   {
-      "Id":98,
-      "Quote":"El Triángulo de las Bermudas antes era el Cuadrado, hasta que Chuck Norris le dio una patada giratoria a una de las esquinas."
-   },
-   {
-      "Id":99,
-      "Quote":"Bush mintió sobre las armas de destrucción masiva en Irak. Todo el mundo sabe que Chuck Norris vive en Texas."
-   },
-   {
-      "Id":100,
-      "Quote":"Chuck Norris no cree en Alemania."
-   },
-   {
-      "Id":101,
-      "Quote":"Cuando Chuck Norris está en un sitio con mucha gente, no la evita. Los atraviesa."
-   },
-   {
-      "Id":102,
-      "Quote":"Una vez Chuck Norris se tomó un bote entero de pastillas para dormir. Le hicieron parpadear."
-   },
-   {
-      "Id":103,
-      "Quote":"James Cameron quería que Chuck Norris fuera Terminator. Sin embargo, se dio cuenta de que la película habría sido un documental."
-   },
-   {
-      "Id":104,
-      "Quote":"Chuck Norris puede tocar a MC Hammer (http://en.wikipedia.org/wiki/U_Cant_Touch_This)."
-   },
-   {
-      "Id":105,
-      "Quote":"Chuck Norris jugó a la Ruleta Rusa con un cargador lleno y ganó."
-   },
-   {
-      "Id":106,
-      "Quote":"Hacen falta 14 marionetistas para hacer que Chuck Norris sonría, y solo 2 para hacer que destruya un orfanato."
-   },
-   {
-      "Id":107,
-      "Quote":"Chuck Norris es el responsable de la superpoblación china. Organizó un campeonato de Karate en Pekín y todas las mujeres en 2000 km a la redonda se quedaron embarazadas."
-   },
-   {
-      "Id":108,
-      "Quote":"Algunos llevan pijamas de Superman. Superman lleva un pijama de Chuck Norris."
-   },
-   {
-      "Id":109,
-      "Quote":"Chuck Norris trabajó una vez de hombre del tiempo para las noticias. Cada noche daba el mismo pronóstico: Parcialmente nuboso con un 75% de probabilidades de dolor."
-   },
-   {
-      "Id":110,
-      "Quote":"Cuando Chuck Norris hace una flexión, no se levanta él, está empujando la Tierra."
-   },
-   {
-      "Id":111,
-      "Quote":"Chuck Norris inventó el rifle, el licor, el sexo y el fútbol, en ese orden."
-   },
-   {
-      "Id":112,
-      "Quote":"Chuck Norris es la razón por la que Wally se esconde."
-   },
-   {
-      "Id":113,
-      "Quote":"Cuando Dios dijo, \"hágase la luz\", Chuck Norris dijo, \"di por favor\"."
-   },
-   {
-      "Id":114,
-      "Quote":"Chuck Norris no come. La comida sabe que la única manera de estar a salvo de los puños de Chuck Norris es estar dentro de él."
-   },
-   {
-      "Id":115,
-      "Quote":"Un día Chuck Norris salió a la calle con una gran erección. No hubo supervivientes."
-   },
-   {
-      "Id":116,
-      "Quote":"Chuck Norris no lee libros, los mira fijamente hasta que les saca la información que quiere."
-   },
-   {
-      "Id":117,
-      "Quote":"Chuck Norris utiliza una luz por la noche. No es que tenga miedo de la oscuridad, es que la oscuridad tiene miedo de Chuck Norris."
-   },
-   {
-      "Id":118,
-      "Quote":"Una ola alta significa que Chuck Norris sobrevuela tu costa. La ola es causada porque Dios se ha meado en los pantalones."
-   },
-   {
-      "Id":119,
-      "Quote":"Chuck Norris mantiene cerca a sus amigos y más cerca a sus enemigos. Suficientemente cerca como para darles una patada giratoria."
-   },
-   {
-      "Id":120,
-      "Quote":"Chuck Norris no se tropieza. Accidentalmente destruye sillas, camas y lo que haya."
-   },
-   {
-      "Id":121,
-      "Quote":"Utilizando su patada giratoria registrada, Chuck Norris marcó un gol en el Bernabeu desde el Nou Camp."
-   },
-   {
-      "Id":122,
-      "Quote":"Las patadas giratoriaes de Chuck Norris no matan a la gente. Eliminan su existencia del contínuo espacio-tiempo."
-   },
-   {
-      "Id":123,
-      "Quote":"Chuck Norris no tiene ni horno ni microondas, porque la venganza se sirve mejor en frío."
-   },
-   {
-      "Id":124,
-      "Quote":"Chuck Norris puede dar un portazo a una puerta giratoria."
-   },
-   {
-      "Id":125,
-      "Quote":"Se espera que Chuck Norris gane todas las medallas de oro de natación en las próximas olimpiadas, aunque Chuck Norris no nade. Esto es porque cuando Chuck Norris entra en el agua, ésta se quita de su camino y simplemente tiene que caminar al otro lado."
-   },
-   {
-      "Id":126,
-      "Quote":"En el borrador original de El Señor de los Anillos, Chuck Norris estaba en lugar de Frodo Bolsón. Solo tenía cuatro páginas, en las cuales Chuck Norris le daba una patada giratoria a Sauron durante el primer capítulo."
-   },
-   {
-      "Id":127,
-      "Quote":"El color favorito de los ciegos es Chuck Norris."
-   },
-   {
-      "Id":128,
-      "Quote":"Si, por alguna extraña paradoja espacio-temporal, Chuck Norris luchase contra sí mismo, ganaría. Punto."
-   },
-   {
-      "Id":129,
-      "Quote":"Hecho científico: las patadas giratorias de Chuck Norris están compuestas principalmente de un elemento llamado Chucktanio."
-   },
-   {
-      "Id":130,
-      "Quote":"El tanke Sherman al principio se llamó Tanke Norris, hasta que Chuck Norris dijo que no era lo suficientemente malote para llevar su nombre. Hoy día aun no se ha hecho un arma que merezca ser llamada Chuck Norris."
-   },
-   {
-      "Id":131,
-      "Quote":"Superman vio una vez un episodio de Walker. Lloró hasta quedarse dormido."
-   },
-   {
-      "Id":132,
-      "Quote":"Chuck Norris no camina sobre sus pies, camina sobre cuellos."
-   },
-   {
-      "Id":133,
-      "Quote":"No existe el calentamiento global. Chuck Norris tenía frío y subió el sol."
-   },
-   {
-      "Id":134,
-      "Quote":"Un estudio ha mostrado las principales causas de mortandad en EEUU: 1: Infarto. 2: Chuck Norris. 3: Cancer."
-   },
-   {
-      "Id":135,
-      "Quote":"Chuck Norris hizo roma en un día."
-   },
-   {
-      "Id":136,
-      "Quote":"El informe sobre mortandad anterior no tiene ningun fallo. Los infartos son provocados al ver a Chuck Norris dar patadas giratorias."
-   },
-   {
-      "Id":137,
-      "Quote":"Junto con su cinturón negro, Chuck Norris suele llevar zapatos marrones. Nadie ha OSADO a decirle nada. Nunca."
-   },
-   {
-      "Id":138,
-      "Quote":"Cada vez que alguien es elegido presidente en EEUU, deben pedirle permiso a Chuck Norris para vivir en la Casa Blanca. La razón de esto es que Chuck Norris ha ganado todas las elecciones Federales, Estatales y Locales desde 1777. Chuck Norris simplemente permite que otro lleve el país en su lugar."
-   },
-   {
-      "Id":139,
-      "Quote":"Los ninjas crecen queriendo ser como Chuck Norris. Pero normalmente crecen para morir a manos de Chuck Norris."
-   },
-   {
-      "Id":140,
-      "Quote":"Chuck Norris no puede sustituirse por un pronombre personal. Chuck Norris es Chuck Norris."
-   },
-   {
-      "Id":141,
-      "Quote":"¿Qué es lo último que se escucha cuando Chuck Norris te da una patada giratoria? Nadie lo sabe, los muertos no hablan."
-   },
-   {
-      "Id":142,
-      "Quote":"4 de 5 médicos están de acuerdo: No quieren encontrarse a Chuck Norris en un callejón oscuro cuando está de mal humor. El quinto médico no tiene nada por lo que vivir."
-   },
-   {
-      "Id":143,
-      "Quote":"De adolescente, Chuck Norris se acostó con todas las monjas de un convento en la Toscana. Nueve meses después nacieron los Miami Dolphins, el único equipo que nunca perdío ni empato un solo partido de la liga de fútbol."
-   },
-   {
-      "Id":144,
-      "Quote":"Hay un orden en el universo: espacio, tiempo, Chuck Norris...es broma, Chuck Norris va primero."
-   },
-   {
-      "Id":145,
-      "Quote":"Un hombre le preguntó una vez a Chuck Norris si su nombre era Charles. Chuck Norris no respondió, solo le miró hasta que explotó."
-   },
-   {
-      "Id":146,
-      "Quote":"Chuck Norris empieza el día con un batido de proteínas hecho de dos docenas de huevos, cocaina pura colombiana y veneno de serpiente cascabel."
-   },
-   {
-      "Id":147,
-      "Quote":"En un combate por parejas, Chuck Norris estaba con Hulk Hogan contra King Kong Bundy y Andre el Gigante. Derrotó a los tres a la vez."
-   },
-   {
-      "Id":148,
-      "Quote":"Chuck Norris no ve gente muerta. La hace."
-   },
-   {
-      "Id":149,
-      "Quote":"Chuck Norris es la única persona que puede tener cinco UZI a la vez. Una en cada mano, una en cada pié, y a la quinta le da una patada giratoria y empieza a escupir balas."
-   },
-   {
-      "Id":150,
-      "Quote":"Para las misiones de incógnito de la policía, Chuck Norris se engancha la placa directamente en su pecho, debajo de la camisa."
-   },
-   {
-      "Id":151,
-      "Quote":"En las películas de X-Men, ninguno de sus super-poderes se hacen con efectos especiales. Chuck Norris es el doble de todos los personajes."
-   },
-   {
-      "Id":152,
-      "Quote":"Vivimos en un universo en expasión. Está intentando escapar de ChuckNorris."
-   },
-   {
-      "Id":153,
-      "Quote":"Se dice que cada vez que te masturbas, Dios mata un gatito. Cada vez que Dios se masturba, Chuck Norris mata un león."
-   },
-   {
-      "Id":154,
-      "Quote":"Chuck Norris es la única persona en el mundo que puede enviar una patada giratoria por email."
-   },
-   {
-      "Id":155,
-      "Quote":"Chuck Norris puede hacer arder las hormigas con una lupa. De noche."
-   },
-   {
-      "Id":156,
-      "Quote":"Chuck Norris estuvo promocionando un gimnasio en un desesperado intento de que sus oponentes no fueran tan patéticos."
-   },
-   {
-      "Id":157,
-      "Quote":"Después de un día de trabajo, Chuck Norris se frota los músculos con magma."
-   },
-   {
-      "Id":158,
-      "Quote":"Chuck Norris no puede amar, solo puede no matar."
-   },
-   {
-      "Id":159,
-      "Quote":"Cuando Chuck Norris era un bebé, no tomaba el pecho de su madre. Su madre le daba wisky, directo de la botella."
-   },
-   {
-      "Id":160,
-      "Quote":"Una vez Chuck Norris se arrancó un pelo de la barba y atravesó a tres hombres con él."
-   },
-   {
-      "Id":161,
-      "Quote":"En un acto de filantropía, Chuck Norris hizo una gran donacion a la Sociedad contra el Cancer. Donó 6000 cuerpos para la investigación científica."
-   },
-   {
-      "Id":162,
-      "Quote":"Un día a Chuck Norris se le ocurrió vender su orina. Hoy se la conoce como Red Bull."
-   },
-   {
-      "Id":163,
-      "Quote":"En una reciente encuesta se ha descubierto que el 94% de las mujeres perdieron su virginidad con Chuck Norris. El otro 6% eran increíblemente feas o gordas."
-   },
-   {
-      "Id":164,
-      "Quote":"Chuck Norris inventó un lenguaje que incorpora el Karate y las patadas giratorias. Así, la próxima vez que Chuck Norris te patee el culo, no te ofendas, estará intentando decirte que le gusta tu sombrero."
-   },
-   {
-      "Id":165,
-      "Quote":"Mr. T compadece a los tontos. Chuck Norris les arranca la cabeza."
-   },
-   {
-      "Id":166,
-      "Quote":"Chuck Norris nunca ha sido acusado de asesinato porque sus patadas giratorias están consideradas un acto divino."
-   },
-   {
-      "Id":167,
-      "Quote":"Chuck Norris se ha ofrecido voluntario a quedarse en el Apocalipsis, para luchar contra el anti-cristo."
-   },
-   {
-      "Id":168,
-      "Quote":"Un hombre retó a Chuck Norris a que se comiera sólo una patata Lay's. Chuck Norris procedió a comerse las patatas, la bolsa y al hombre."
-   },
-   {
-      "Id":169,
-      "Quote":"Chuck Norris puede dar una patada giratoria más rapido que la luz. Esto significa que si le das al interruptor de la luz, habrás muerto antes de que la bombilla se encienda."
-   },
-   {
-      "Id":170,
-      "Quote":"Cuando Chuck Norris sale a comer, se pide un pollo entero, pero sólo se come su alma."
-   },
-   {
-      "Id":171,
-      "Quote":"Chuck Norris nunca ganó un Oscar por sus actuaciones...Chuck Norris no actúa."
-   },
-   {
-      "Id":172,
-      "Quote":"No todos los que Chuck Norris odia mueren. Algunos escapan. Se llaman astronautas."
-   },
-   {
-      "Id":173,
-      "Quote":"Chuck Norris tiene que registrar cada parte de su cuerpo como un arma letal. Su bazo se considera un arma oculta en 50 Estados."
-   },
-   {
-      "Id":174,
-      "Quote":"En la película en la que Chuck Norris pierde contra Bruce Lee, se gastó el equivalente al producto interior bruto de Paraguay para crear ese efecto tan especial."
-   },
-   {
-      "Id":175,
-      "Quote":"Godzilla es una rememoración de la primera visita de Chuck Norris a Japón."
-   },
-   {
-      "Id":176,
-      "Quote":"Para rodar un capítulo de Walker, Chuck Norris se inyecta 40 veces la dosis letal de tranquilizante para elefante, para asi limitar su poder y reducir el índice de fatalidad de sus actores."
-   },
-   {
-      "Id":177,
-      "Quote":"Cuando Bruce Banner se vuelve loco, se transforma en Hulk. Cuando Hulk se cabrea, se transforma en Chuck Norris."
-   },
-   {
-      "Id":178,
-      "Quote":"Una vez Chuck Norris le dio una patada a un caballo en la barbilla. Sus descendientes se conocen hoy en día como jirafas."
-   },
-   {
-      "Id":179,
-      "Quote":"Palos y piedras pueden romper tus huesos, pero una mirada de Chuck Norris te derretirá los riñones."
-   },
-   {
-      "Id":180,
-      "Quote":"La clonación humana está prohibida porque si se clonara a Chuck Norris, ambos se darían una patada giratoria, y entonces acabaría el universo."
-   },
-   {
-      "Id":181,
-      "Quote":"Chuck Norris escupió al suelo una vez, y dijo que no lo repetiría. Un Gran Cañón es suficiente."
-   },
-   {
-      "Id":182,
-      "Quote":"En la película Parque Jurásico, el Tiranosaurus Rex no iba detrás del Jeep. Chuck Norris iba persiguiendo al Tiranosaurus y al Jeep."
-   },
-   {
-      "Id":183,
-      "Quote":"Chuck Norris tuvo que dejar de lavar su ropa en el océano. Los tsunamis estaban matando gente."
-   },
-   {
-      "Id":184,
-      "Quote":"Según la Biliba, Dios creó el universo en seis días. Antes de eso, Chuck Norris creó a Dios chasqueando sus dedos."
-   },
-   {
-      "Id":185,
-      "Quote":"Según la enciclopedia, un valle de lágrimas se define como cualquier sitio por el que Chuck Norris camina."
-   }
+  {
+    "Id": 1,
+    "Quote": "Las lágrimas de Chuck Norris curan el cáncer. Lo malo es que él nunca ha llorado. Jamás."
+  },
+  {
+    "Id": 2,
+    "Quote": "Chuck Norris no duerme. Espera."
+  },
+  {
+    "Id": 3,
+    "Quote": "Chuck Norris ha denunciado a la NBC, diciendo que Ley y Orden son los nombres registrados de sus piernas."
+  },
+  {
+    "Id": 4,
+    "Quote": "La mayor exportación de Chuck Norris es dolor."
+  },
+  {
+    "Id": 5,
+    "Quote": "Si puedes ver a Chuck Norris, él te puede ver a ti. Si no puedes ver a Chuck Norris, seguramente estás a pocos segundos de la muerte."
+  },
+  {
+    "Id": 6,
+    "Quote": "Chuck Norris ha contado hasta el infinito. Dos veces."
+  },
+  {
+    "Id": 7,
+    "Quote": "Chuck Norris no sale de caza porque la palabra \"caza\" implica probabilidad de fallo. Chuck Norris sale a matar."
+  },
+  {
+    "Id": 8,
+    "Quote": "4 de 5 médicos dijeron que Chuck Norris no era la solución a muchos problemas. El 80% de los médicos murieron sin explicación, de una muerte brutal."
+  },
+  {
+    "Id": 9,
+    "Quote": "Chuck Norris es 1/8 Cherokee. No tiene nada que ver con sus ancestros, es que se comió un indio."
+  },
+  {
+    "Id": 10,
+    "Quote": "En la última página del libro Guinness de los Récords, se dice que todos ellos son de Chuck Norris, y los que salen en el libro son sólo aquellos que se acercaron más."
+  },
+  {
+    "Id": 11,
+    "Quote": "No hay un mentón tras la barba de Chuck Norris. Solo hay otro puño."
+  },
+  {
+    "Id": 12,
+    "Quote": "Una vez Chuck Norris dio una patada giratoria tan fuerte que su pié superó la velocidad de la luz, volvió atrás en el tiempo, y mató a Amelia Earhart (http://es.wikipedia.org/wiki/Amelia_Earhart) mientras sobrevolaba el océano pacífico."
+  },
+  {
+    "Id": 13,
+    "Quote": "13.Los círculos del maíz son la forma de Chuck Norris de decir al mundo que a veces necesita tumbarse."
+  },
+  {
+    "Id": 14,
+    "Quote": "Chuck Norris mide 3 metros de alto, pesa dos toneladas, escupe fuego, y podría comerse un martillo y recibir un disparo de escopeta sin caerse."
+  },
+  {
+    "Id": 15,
+    "Quote": "La Gran Muralla China se creó al principio para mantener fuera a Chuck Norris. Fracasó estrepitosamente."
+  },
+  {
+    "Id": 16,
+    "Quote": "Al contrario de lo que se cree, Chuck Norris, no es la medusa gigante del norte de Australia, es la criatura más venenosa de la Tierra. A los tres minutos de ser mordido, un humano experimenta los siguientes síntomas: fiebre, visión borrosa, crecimiento de la barba, apretón de vaqueros, y el sentimiento de estar siendo pateado a través del cristal de un coche."
+  },
+  {
+    "Id": 17,
+    "Quote": "Si le preguntas a Chuck Norris qué hora es, siempre dice, \"Dos segundos para\". Tú preguntarás, \"Dos segundos para qué?\" y entonces te dará una patada giratoria."
+  },
+  {
+    "Id": 18,
+    "Quote": "Chuck Norris conduce un camión de los helados cubierto de calaveras humanas."
+  },
+  {
+    "Id": 19,
+    "Quote": "Cuando Chuck Norris envía su declaración de la renta, manda folios en blanco y una foto suya, agachado y preparado para atacar. Chuck Norris nunca pagará impuestos, jamás."
+  },
+  {
+    "Id": 20,
+    "Quote": "La forma más rápida de llegar al corazón de un hombre es con el puño de Chuck Norris."
+  },
+  {
+    "Id": 21,
+    "Quote": "Chuck Norris inventó la famosa receta de la Coca Cola, con once hierbas y especias. Pero nadie menciona nunca el duodécimo ingrediente: miedo."
+  },
+  {
+    "Id": 22,
+    "Quote": "Chuck Norris puede ganar al Conecta Cuatro con tres movimientos."
+  },
+  {
+    "Id": 23,
+    "Quote": "No existe la teoría de la evolución, solo una lista de criaturas que Chuck Norris deja vivir."
+  },
+  {
+    "Id": 24,
+    "Quote": "Chuck Norris se comió una vez tres filetes de 2 kg. en una hora. Empleó los primeros 45 minutos en tirarse a la camarera."
+  },
+  {
+    "Id": 25,
+    "Quote": "En una lucha entre Batman y Darth Vader, el ganador sería Chuck Norris."
+  },
+  {
+    "Id": 26,
+    "Quote": "Chuck Norris es la única persona que ha derrotado a un muro de ladrillo jugando al tenis."
+  },
+  {
+    "Id": 27,
+    "Quote": "La policía cataloga a cualquiera que ataque a Chuck Norris como un 45-11...un suicida."
+  },
+  {
+    "Id": 28,
+    "Quote": "Chuck Norris no compra mantequilla. Da una patada giratoria a una vaca y la mantequilla sale sola."
+  },
+  {
+    "Id": 29,
+    "Quote": "Chuck Norris no lava la ropa, la limpia de intestinos."
+  },
+  {
+    "Id": 30,
+    "Quote": "Una plaza de aparcamiento para discapacitados no significa que sea para estos. Es en verdad una advertencia de que ese sitio pertenece a Chuck Norris y que serás un discapacitado si aparcas ahí."
+  },
+  {
+    "Id": 31,
+    "Quote": "Chuck Norris será un estado en el 2009. La flor de su estado será la magnolia."
+  },
+  {
+    "Id": 32,
+    "Quote": "En Nagasaki nunca cayó una bomba nuclear. Chuck Norris saltó de un avión y le dio un puñetazo al suelo."
+  },
+  {
+    "Id": 33,
+    "Quote": "Chuck Norris aparecía en el Stree Fighter original, pero fue eliminado por los Beta Testers porque cualquier botón hacía que diera una patada giratoria. Cuando le preguntaron sobre ese \"fallo\", Norris respondió, \"No es un fallo\"."
+  },
+  {
+    "Id": 34,
+    "Quote": "Ríete de mí, y maldito seas. Ríete de Chuck Norris y te joderá vivo."
+  },
+  {
+    "Id": 35,
+    "Quote": "La introducción de la película \"Salvar al soldado Ryan\" está basada en una partida de balón prisionero que Chuck Norris jugó en el instituto."
+  },
+  {
+    "Id": 36,
+    "Quote": "Chuck Norris derribó un avión alemán con su dedo, diciendo, \"Bang!\"."
+  },
+  {
+    "Id": 37,
+    "Quote": "Chuck Norris se apostó con la NASA que podría sobrevivir a la entrada en la atmósfera sin traje espacial. El 19 de julio de 1999, un Chuck Norris en pelotas entró en la atmósfera terrestre, volando sobre 14 estados y alcanzando una temperatura de 3000 grados. La NASA anunció que era un meteoro, y aún le deben una cerveza."
+  },
+  {
+    "Id": 38,
+    "Quote": "Chuck Norris tiene dos velocidades: Andar y Matar."
+  },
+  {
+    "Id": 39,
+    "Quote": "Alguien intentó una vez decirle a Chuck Norris que las patadas giratorias no son la mejor forma de patear a alguien. Ha sido registrado por los historiadores como el peor error cometido nunca."
+  },
+  {
+    "Id": 40,
+    "Quote": "Al contrario de lo que se cree, América no es una democracia, es una DictaNorrisdura."
+  },
+  {
+    "Id": 41,
+    "Quote": "Las Tortugas Ninja están basadas en un hecho real: Chuck Norris se tragó una tortuga viva, y cuando la cagó, la tortuga medía 6 metros y sabía karate."
+  },
+  {
+    "Id": 42,
+    "Quote": "Solo con tirar de sus dos extremos, Chuck Norris puede convertir el diamante en carbón."
+  },
+  {
+    "Id": 43,
+    "Quote": "Más rápido que una bala...más poderoso que un tren....capaz de saltar edificios de un solo bote...si, estos son algunos de los ejercicios de calentamiento de Chuck Norris."
+  },
+  {
+    "Id": 44,
+    "Quote": "Chuck Norris es el único humano capaz de mostrar el Principio de Indeterminación de Heisenberg (http://es.wikipedia.org/wiki/Principio_de_indeterminaci%C3%B3n_de_Heisenberg): nunca se puede saber exactamente dónde y cuán rápido te va a dar una patada giratoria en la cara."
+  },
+  {
+    "Id": 45,
+    "Quote": "En la Biblia, Jesús convirtió el agua en vino. Y luego Chuck Norris convirtió el vino en cerveza."
+  },
+  {
+    "Id": 46,
+    "Quote": "El Tiempo no espera a ningún hombre. A no ser que ese hombre sea Chuck Norris."
+  },
+  {
+    "Id": 47,
+    "Quote": "Chuck Norris descubrió una nueva teoría de la relatividad que implica múltiples universos en los que Chuck Norris es incluso más machote que en este. Cuando fue descubierto y hecho público por Albert Einstein, Chuck Norris le dio una patada giratoria en la cara. Ahora Albert Einstein es conocido como Stephen Hawking."
+  },
+  {
+    "Id": 48,
+    "Quote": "El cereal favorito de Chuck Norris son los Cantos Rodados y Gravilla de Kellogg."
+  },
+  {
+    "Id": 49,
+    "Quote": "La unidad Chuck Norris del Civilización 4 fue eliminada porque una sola de ellas podía derrotar a todas las otras naciones unidas del mundo en un solo turno."
+  },
+  {
+    "Id": 50,
+    "Quote": "En una habitación normal, hay 1242 objetos con los que Chuck Norris podría matarte, incluyendo la propia habitación."
+  },
+  {
+    "Id": 51,
+    "Quote": "Plutón es en realidad un grupo de soldados ingleses de la Revolución Americana en órbita a quienes Chuck Norris dio una patada giratoria en la cara."
+  },
+  {
+    "Id": 52,
+    "Quote": "Cuando Chuck Norris va a donar sangre, rechaza la jeringa, y pide una pistola y un cubo."
+  },
+  {
+    "Id": 53,
+    "Quote": "No hay esteroides en el deporte. Solo hay jugadores a los que Chuck Norris ha echado el aliento."
+  },
+  {
+    "Id": 54,
+    "Quote": "Una vez Chuck Norris retó a Lance Armstrong en un concurso de \"Quién tiene más huevos?\". Chuck Norris ganó por 5."
+  },
+  {
+    "Id": 55,
+    "Quote": "Chuck Norris era el cuarto Rey Mago, que regaló a Jesús una barba que llevó hasta que murió. Los otros reyes magos estaban enfurecidos porque Jesús prefería el regalo de Chuck, y decidieron eliminarlo de la Biblia. Los tres murieron poco después debido a unas misteriosas heridas provocadas por una patada giratoria."
+  },
+  {
+    "Id": 56,
+    "Quote": "Chuck Norris muda la piel dos veces al día."
+  },
+  {
+    "Id": 57,
+    "Quote": "Cuando Chuck Norris llama a la una línea 806, no le cobran. Levanta el auricular y el dinero empieza a salir."
+  },
+  {
+    "Id": 58,
+    "Quote": "Una vez Chuck Norris se comió una tarta entera antes de que sus amigos le pudieran decir que había una stripper dentro."
+  },
+  {
+    "Id": 59,
+    "Quote": "Algunas personas comen ancas de rana. A Chuck Norris le gusta comer ancas de reptil. Ahora son serpientes."
+  },
+  {
+    "Id": 60,
+    "Quote": "No existen razas, solo países con gente a la que Chuck Norris ha apalizado hasta ponerse en distintas sombras de azul y negro."
+  },
+  {
+    "Id": 61,
+    "Quote": "Chuck Norris no puede acabar un juego de pinta y colorea porque todos sus rotuladores están llenos de la sangre de sus víctimas. Desgraciadamente, toda la sangre es roja oscura."
+  },
+  {
+    "Id": 62,
+    "Quote": "Los científicos han estimado que la energía desarrollada en el Big Bang es más o menos igual a 1PGdCN (Patada Giratoria de Chuck Norris)."
+  },
+  {
+    "Id": 63,
+    "Quote": "La casa de Chuck Norris no tiene puertas, solo muros que atraviesa."
+  },
+  {
+    "Id": 64,
+    "Quote": "Una patada giratoria de Chuck Norris es el método de ejecución favorito de 16 estados."
+  },
+  {
+    "Id": 65,
+    "Quote": "Cuando Chuck Norris se cae al agua no se moja. El agua se moja de Chuck Norris."
+  },
+  {
+    "Id": 66,
+    "Quote": "Cuando Chuck Norris se acuesta con un hombre, no lo hace porque sea gay. Lo hará porque no le quedan mujeres."
+  },
+  {
+    "Id": 67,
+    "Quote": "Chuck Norris no escribe libros, las letras se juntan solas por el miedo."
+  },
+  {
+    "Id": 68,
+    "Quote": "En honor a Chuck Norris, todos los McDonald's de Texas tienen un tamaño incluso mayor que el super-size. Para pedirlo , tienes que decir Norrisgante."
+  },
+  {
+    "Id": 69,
+    "Quote": "Si quisiera, una patada giratoria de Chuck Norris podría dar energía a Australia durante 44 minutos."
+  },
+  {
+    "Id": 70,
+    "Quote": "Chuck Norris puede dividir por 0."
+  },
+  {
+    "Id": 71,
+    "Quote": "La hierba es siempre más verde al otro lado, a no ser que Chuck Norris haya estado allí. Entonces la hierba está más bien llena de sangre y lágrimas."
+  },
+  {
+    "Id": 72,
+    "Quote": "Una imagen vale más que mil palabras. Un Chuck Norris vale más que mil millones de palabras."
+  },
+  {
+    "Id": 73,
+    "Quote": "La Tercera Ley de Newton esta mal: aunque afirma que para cada acción hay una reacción, no existe fuerza igual de reacción a una patada giratoria de Chuck Norris."
+  },
+  {
+    "Id": 74,
+    "Quote": "Cuando se estrenó Walker, Ranger de Texas en Francia, los franceses se rindieron a Chuck Norris solo para estar en el lado seguro."
+  },
+  {
+    "Id": 75,
+    "Quote": "Mientras mea, Chuck Norris es capaz de forjar titanio."
+  },
+  {
+    "Id": 76,
+    "Quote": "Cuando Chuck Norris habla, todo el mundo escucha. Luego mueren."
+  },
+  {
+    "Id": 77,
+    "Quote": "Wilt Chamberlain afirmaba que durmió con más de 20000 mujeres. Chuck Norris llama a eso un jueves tonto."
+  },
+  {
+    "Id": 78,
+    "Quote": "Chuck Norris no se afeita; se da patadas en la cara. La única cosa que puede cortar a Chuck Norris es Chuck Norris."
+  },
+  {
+    "Id": 79,
+    "Quote": "Para algunos, el testículo izquierdo es más grande que el derecho. Para Chuck Norris, cada testículo es más grande que el otro."
+  },
+  {
+    "Id": 80,
+    "Quote": "Chuck Norris siempre sabe la situación EXACTA de Carmen Sandiego."
+  },
+  {
+    "Id": 81,
+    "Quote": "Cuando te examines, escribe Chuck Norris en todas las respuestas y sacarás un 10."
+  },
+  {
+    "Id": 82,
+    "Quote": "Chuck Norris inventó el negro. De hecho, inventó todo el espectro visible de luz. Excepto el rosa. Tom Cruise inventó el rosa."
+  },
+  {
+    "Id": 83,
+    "Quote": "Cuando eres Chuck Norris, cualquier cosa + cualquier cosa = 1. Una patada giratoria en la cara."
+  },
+  {
+    "Id": 84,
+    "Quote": "Chuck Norris tiene la mejor cara de poker de todos los tiempos. Ganó el Campeonato mundial de 1983, y eso que llevaba un comodín, una carta de \"queda libre de la cárcel\" del Monopoly, un 2 de bastos, un 7 de espadas y una carta verde del Pictionary."
+  },
+  {
+    "Id": 85,
+    "Quote": "En su cumpleaños, Chuck Norris selecciona un niño al azar y lo lanza hacia el sol."
+  },
+  {
+    "Id": 86,
+    "Quote": "Al principio no era nada...entonces Chuck Norris le dio una patada giratoria en la cara a la nada y dijo, \"busca trabajo\". Esa es la historia del Universo."
+  },
+  {
+    "Id": 87,
+    "Quote": "Chuck Norris tiene 12 lunas. Una de ellas es la Tierra."
+  },
+  {
+    "Id": 88,
+    "Quote": "Chuck Norris muele el café con sus dientes y hierve el agua con su furia."
+  },
+  {
+    "Id": 89,
+    "Quote": "Unos arqueólogos desenterraron un diccionario del año 123. Definía \"víctima\" como alguien que se había encontrado con Chuck Norris."
+  },
+  {
+    "Id": 90,
+    "Quote": "Chuck Norris pidió un Big Mac en un Burger King, y se lo dieron."
+  },
+  {
+    "Id": 91,
+    "Quote": "Chuck Norris y Mr. T fueron a un bar. El bar fue destruído instantáneamente, ya que tal nivel de testosterona no lo puede soportar un solo edificio."
+  },
+  {
+    "Id": 92,
+    "Quote": "Si buscas en el Google \"Chuck Norris siendo pateado en el culo\" generarás cero resultados. Eso nunca ha pasado."
+  },
+  {
+    "Id": 93,
+    "Quote": "Chuck Norris puede beberse 4 litros de leche en 40 segundos."
+  },
+  {
+    "Id": 94,
+    "Quote": "Un hecho médico poco conocido: Chuck Norris inventó las cesáreas cuando salió del útero de su madre con una patada giratoria."
+  },
+  {
+    "Id": 95,
+    "Quote": "Chuck Norris no juega a los bolos. Solo tira uno y los otros se caen del miedo."
+  },
+  {
+    "Id": 96,
+    "Quote": "A Chuck Norris le bastan 20 minutos para ver 60 minutos."
+  },
+  {
+    "Id": 97,
+    "Quote": "Chuck Norris tiene un profundo respeto por la vida humana...a no ser que se cruce en su camino."
+  },
+  {
+    "Id": 98,
+    "Quote": "El Triángulo de las Bermudas antes era el Cuadrado, hasta que Chuck Norris le dio una patada giratoria a una de las esquinas."
+  },
+  {
+    "Id": 99,
+    "Quote": "Bush mintió sobre las armas de destrucción masiva en Irak. Todo el mundo sabe que Chuck Norris vive en Texas."
+  },
+  {
+    "Id": 100,
+    "Quote": "Chuck Norris no cree en Alemania."
+  },
+  {
+    "Id": 101,
+    "Quote": "Cuando Chuck Norris está en un sitio con mucha gente, no la evita. Los atraviesa."
+  },
+  {
+    "Id": 102,
+    "Quote": "Una vez Chuck Norris se tomó un bote entero de pastillas para dormir. Le hicieron parpadear."
+  },
+  {
+    "Id": 103,
+    "Quote": "James Cameron quería que Chuck Norris fuera Terminator. Sin embargo, se dio cuenta de que la película habría sido un documental."
+  },
+  {
+    "Id": 104,
+    "Quote": "La clonación humana está prohibida porque si se clonara a Chuck Norris, ambos se darían una patada giratoria, y entonces acabaría el universo."
+  },
+  {
+    "Id": 105,
+    "Quote": "Chuck Norris jugó a la Ruleta Rusa con un cargador lleno y ganó."
+  },
+  {
+    "Id": 106,
+    "Quote": "Hacen falta 14 marionetistas para hacer que Chuck Norris sonría, y solo 2 para hacer que destruya un orfanato."
+  },
+  {
+    "Id": 107,
+    "Quote": "Chuck Norris es el responsable de la superpoblación china. Organizó un campeonato de Karate en Pekín y todas las mujeres en 2000 km a la redonda se quedaron embarazadas."
+  },
+  {
+    "Id": 108,
+    "Quote": "Algunos llevan pijamas de Superman. Superman lleva un pijama de Chuck Norris."
+  },
+  {
+    "Id": 109,
+    "Quote": "Chuck Norris trabajó una vez de hombre del tiempo para las noticias. Cada noche daba el mismo pronóstico: Parcialmente nuboso con un 75% de probabilidades de dolor."
+  },
+  {
+    "Id": 110,
+    "Quote": "Cuando Chuck Norris hace una flexión, no se levanta él, está empujando la Tierra."
+  },
+  {
+    "Id": 111,
+    "Quote": "Chuck Norris inventó el rifle, el licor, el sexo y el fútbol, en ese orden."
+  },
+  {
+    "Id": 112,
+    "Quote": "Chuck Norris es la razón por la que Wally se esconde."
+  },
+  {
+    "Id": 113,
+    "Quote": "En la película Parque Jurásico, el Tiranosaurus Rex no iba detrás del Jeep. Chuck Norris iba persiguiendo al Tiranosaurus y al Jeep."
+  },
+  {
+    "Id": 114,
+    "Quote": "Chuck Norris no come. La comida sabe que la única manera de estar a salvo de los puños de Chuck Norris es estar dentro de él."
+  },
+  {
+    "Id": 115,
+    "Quote": "Un día Chuck Norris salió a la calle con una gran erección. No hubo supervivientes."
+  },
+  {
+    "Id": 116,
+    "Quote": "Chuck Norris no lee libros, los mira fijamente hasta que les saca la información que quiere."
+  },
+  {
+    "Id": 117,
+    "Quote": "Chuck Norris utiliza una luz por la noche. No es que tenga miedo de la oscuridad, es que la oscuridad tiene miedo de Chuck Norris."
+  },
+  {
+    "Id": 118,
+    "Quote": "Chuck Norris tuvo que dejar de lavar su ropa en el océano. Los tsunamis estaban matando gente."
+  },
+  {
+    "Id": 119,
+    "Quote": "Chuck Norris mantiene cerca a sus amigos y más cerca a sus enemigos. Suficientemente cerca como para darles una patada giratoria."
+  },
+  {
+    "Id": 120,
+    "Quote": "Chuck Norris no se tropieza. Accidentalmente destruye sillas, camas y lo que haya."
+  },
+  {
+    "Id": 121,
+    "Quote": "Utilizando su patada giratoria registrada, Chuck Norris marcó un gol en el Bernabeu desde el Nou Camp."
+  },
+  {
+    "Id": 122,
+    "Quote": "Las patadas giratoriaes de Chuck Norris no matan a la gente. Eliminan su existencia del contínuo espacio-tiempo."
+  },
+  {
+    "Id": 123,
+    "Quote": "Chuck Norris no tiene ni horno ni microondas, porque la venganza se sirve mejor en frío."
+  },
+  {
+    "Id": 124,
+    "Quote": "Chuck Norris puede dar un portazo a una puerta giratoria."
+  },
+  {
+    "Id": 125,
+    "Quote": "Se espera que Chuck Norris gane todas las medallas de oro de natación en las próximas olimpiadas, aunque Chuck Norris no nade. Esto es porque cuando Chuck Norris entra en el agua, ésta se quita de su camino y simplemente tiene que caminar al otro lado."
+  },
+  {
+    "Id": 126,
+    "Quote": "En el borrador original de El Señor de los Anillos, Chuck Norris estaba en lugar de Frodo Bolsón. Solo tenía cuatro páginas, en las cuales Chuck Norris le daba una patada giratoria a Sauron durante el primer capítulo."
+  },
+  {
+    "Id": 127,
+    "Quote": "El color favorito de los ciegos es Chuck Norris."
+  },
+  {
+    "Id": 128,
+    "Quote": "Si, por alguna extraña paradoja espacio-temporal, Chuck Norris luchase contra sí mismo, ganaría. Punto."
+  },
+  {
+    "Id": 129,
+    "Quote": "Hecho científico: las patadas giratorias de Chuck Norris están compuestas principalmente de un elemento llamado Chucktanio."
+  },
+  {
+    "Id": 130,
+    "Quote": "El tanke Sherman al principio se llamó Tanke Norris, hasta que Chuck Norris dijo que no era lo suficientemente malote para llevar su nombre. Hoy día aun no se ha hecho un arma que merezca ser llamada Chuck Norris."
+  },
+  {
+    "Id": 131,
+    "Quote": "Superman vio una vez un episodio de Walker. Lloró hasta quedarse dormido."
+  },
+  {
+    "Id": 132,
+    "Quote": "Chuck Norris no camina sobre sus pies, camina sobre cuellos."
+  },
+  {
+    "Id": 133,
+    "Quote": "No existe el calentamiento global. Chuck Norris tenía frío y subió el sol."
+  },
+  {
+    "Id": 134,
+    "Quote": "Un estudio ha mostrado las principales causas de mortandad en EEUU: 1: Infarto. 2: Chuck Norris. 3: Cancer."
+  },
+  {
+    "Id": 135,
+    "Quote": "Chuck Norris hizo Roma en un día."
+  },
+  {
+    "Id": 136,
+    "Quote": "El informe sobre mortandad anterior no tiene ningun fallo. Los infartos son provocados al ver a Chuck Norris dar patadas giratorias."
+  },
+  {
+    "Id": 137,
+    "Quote": "Junto con su cinturón negro, Chuck Norris suele llevar zapatos marrones. Nadie ha OSADO a decirle nada. Nunca."
+  },
+  {
+    "Id": 138,
+    "Quote": "Cada vez que alguien es elegido presidente en EEUU, deben pedirle permiso a Chuck Norris para vivir en la Casa Blanca. La razón de esto es que Chuck Norris ha ganado todas las elecciones Federales, Estatales y Locales desde 1777. Chuck Norris simplemente permite que otro lleve el país en su lugar."
+  },
+  {
+    "Id": 139,
+    "Quote": "Los ninjas crecen queriendo ser como Chuck Norris. Pero normalmente crecen para morir a manos de Chuck Norris."
+  },
+  {
+    "Id": 140,
+    "Quote": "Chuck Norris no puede sustituirse por un pronombre personal. Chuck Norris es Chuck Norris."
+  },
+  {
+    "Id": 141,
+    "Quote": "¿Qué es lo último que se escucha cuando Chuck Norris te da una patada giratoria? Nadie lo sabe, los muertos no hablan."
+  },
+  {
+    "Id": 142,
+    "Quote": "4 de 5 médicos están de acuerdo: No quieren encontrarse a Chuck Norris en un callejón oscuro cuando está de mal humor. El quinto médico no tiene nada por lo que vivir."
+  },
+  {
+    "Id": 143,
+    "Quote": "De adolescente, Chuck Norris se acostó con todas las monjas de un convento en la Toscana. Nueve meses después nacieron los Miami Dolphins, el único equipo que nunca perdío ni empató un solo partido de la liga de fútbol."
+  },
+  {
+    "Id": 144,
+    "Quote": "Hay un orden en el universo: espacio, tiempo, Chuck Norris...es broma, Chuck Norris va primero."
+  },
+  {
+    "Id": 145,
+    "Quote": "Un hombre le preguntó una vez a Chuck Norris si su nombre era Charles. Chuck Norris no respondió, solo le miró hasta que explotó."
+  },
+  {
+    "Id": 146,
+    "Quote": "Chuck Norris empieza el día con un batido de proteínas hecho de dos docenas de huevos, cocaina pura colombiana y veneno de serpiente cascabel."
+  },
+  {
+    "Id": 147,
+    "Quote": "La clonación humana está prohibida porque si se clonara a Chuck Norris, ambos se darían una patada giratoria, y entonces acabaría el universo."
+  },
+  {
+    "Id": 148,
+    "Quote": "Chuck Norris no ve gente muerta. La hace."
+  },
+  {
+    "Id": 149,
+    "Quote": "Chuck Norris es la única persona que puede tener cinco UZI a la vez. Una en cada mano, una en cada pié, y a la quinta le da una patada giratoria y empieza a escupir balas."
+  },
+  {
+    "Id": 150,
+    "Quote": "Para las misiones de incógnito de la policía, Chuck Norris se engancha la placa directamente en su pecho, debajo de la camisa."
+  },
+  {
+    "Id": 151,
+    "Quote": "En las películas de X-Men, ninguno de sus super-poderes se hacen con efectos especiales. Chuck Norris es el doble de todos los personajes."
+  },
+  {
+    "Id": 152,
+    "Quote": "Vivimos en un universo en expasión. Está intentando escapar de ChuckNorris."
+  },
+  {
+    "Id": 153,
+    "Quote": "Según la enciclopedia, un valle de lágrimas se define como cualquier sitio por el que Chuck Norris camina."
+  },
+  {
+    "Id": 154,
+    "Quote": "Chuck Norris es la única persona en el mundo que puede enviar una patada giratoria por email."
+  },
+  {
+    "Id": 155,
+    "Quote": "Chuck Norris puede hacer arder las hormigas con una lupa. De noche."
+  },
+  {
+    "Id": 156,
+    "Quote": "Chuck Norris estuvo promocionando un gimnasio en un desesperado intento de que sus oponentes no fueran tan patéticos."
+  },
+  {
+    "Id": 157,
+    "Quote": "Después de un día de trabajo, Chuck Norris se frota los músculos con magma."
+  },
+  {
+    "Id": 158,
+    "Quote": "Chuck Norris no puede amar, solo puede no matar."
+  },
+  {
+    "Id": 159,
+    "Quote": "Cuando Chuck Norris era un bebé, no tomaba el pecho de su madre. Su madre le daba wisky, directo de la botella."
+  },
+  {
+    "Id": 160,
+    "Quote": "Una vez Chuck Norris se arrancó un pelo de la barba y atravesó a tres hombres con él."
+  },
+  {
+    "Id": 161,
+    "Quote": "En un acto de filantropía, Chuck Norris hizo una gran donacion a la Sociedad contra el Cancer. Donó 6000 cuerpos para la investigación científica."
+  },
+  {
+    "Id": 162,
+    "Quote": "Un día a Chuck Norris se le ocurrió vender su orina. Hoy se la conoce como Red Bull."
+  },
+  {
+    "Id": 163,
+    "Quote": "Chuck Norris escupió al suelo una vez, y dijo que no lo repetiría. Un Gran Cañón es suficiente."
+  },
+  {
+    "Id": 164,
+    "Quote": "Chuck Norris inventó un lenguaje que incorpora el Karate y las patadas giratorias. Así, la próxima vez que Chuck Norris te patee el culo, no te ofendas, estará intentando decirte que le gusta tu sombrero."
+  },
+  {
+    "Id": 165,
+    "Quote": "Una vez Chuck Norris le dio una patada a un caballo en la barbilla. Sus descendientes se conocen hoy en día como jirafas."
+  },
+  {
+    "Id": 166,
+    "Quote": "Chuck Norris nunca ha sido acusado de asesinato porque sus patadas giratorias están consideradas un acto divino."
+  },
+  {
+    "Id": 167,
+    "Quote": "Chuck Norris se ha ofrecido voluntario a quedarse en el Apocalipsis, para luchar contra el anti-cristo."
+  },
+  {
+    "Id": 168,
+    "Quote": "Un hombre retó a Chuck Norris a que se comiera sólo una patata Lay's. Chuck Norris procedió a comerse las patatas, la bolsa y al hombre."
+  },
+  {
+    "Id": 169,
+    "Quote": "Chuck Norris puede dar una patada giratoria más rapido que la luz. Esto significa que si le das al interruptor de la luz, habrás muerto antes de que la bombilla se encienda."
+  },
+  {
+    "Id": 170,
+    "Quote": "Cuando Chuck Norris sale a comer, se pide un pollo entero, pero sólo se come su alma."
+  },
+  {
+    "Id": 171,
+    "Quote": "Chuck Norris nunca ganó un Oscar por sus actuaciones...Chuck Norris no actúa."
+  },
+  {
+    "Id": 172,
+    "Quote": "No todos los que Chuck Norris odia mueren. Algunos escapan. Se llaman astronautas."
+  },
+  {
+    "Id": 173,
+    "Quote": "Chuck Norris tiene que registrar cada parte de su cuerpo como un arma letal. Su bazo se considera un arma oculta en 50 Estados."
+  },
+  {
+    "Id": 174,
+    "Quote": "Palos y piedras pueden romper tus huesos, pero una mirada de Chuck Norris te derretirá los riñones."
+  },
+  {
+    "Id": 175,
+    "Quote": "Godzilla es una rememoración de la primera visita de Chuck Norris a Japón."
+  },
+  {
+    "Id": 176,
+    "Quote": "Para rodar un capítulo de Walker, Chuck Norris se inyecta 40 veces la dosis letal de tranquilizante para elefante, para asi limitar su poder y reducir el índice de fatalidad de sus actores."
+  },
+  {
+    "Id": 177,
+    "Quote": "Cuando Bruce Banner se vuelve loco, se transforma en Hulk. Cuando Hulk se cabrea, se transforma en Chuck Norris."
+  },
+  {
+    "Id": 178,
+    "Quote": "Una vez Chuck Norris le dio una patada a un caballo en la barbilla. Sus descendientes se conocen hoy en día como jirafas."
+  }
 ]

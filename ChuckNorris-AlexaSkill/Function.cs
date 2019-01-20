@@ -26,53 +26,50 @@ namespace ChuckNorrisAlexaSkill
 
         public SkillResponse FunctionHandler(SkillRequest input, ILambdaContext context)
         {
-            SkillResponse response = new SkillResponse();
-            response.Response = new ResponseBody();
-            response.Response.ShouldEndSession = false;
-            IOutputSpeech innerResponse = null;
-            var log = context.Logger;
+            SkillResponse response = new SkillResponse(){ Response = new ResponseBody() };
+            PlainTextOutputSpeech innerResponse = new PlainTextOutputSpeech();
+            ILambdaLogger log = context.Logger;
 
-            if (input.GetRequestType() == typeof(LaunchRequest))
-            {
-                log.LogLine($"Default LaunchRequest made");
-                innerResponse = new PlainTextOutputSpeech();
-                (innerResponse as PlainTextOutputSpeech).Text = "Bienvenido a chistes y frases graciosas sobre Chuck Norris";
-            }
-            else if (input.GetRequestType() == typeof(IntentRequest))
-            {
-                var intentRequest = (IntentRequest)input.Request;
-
-                switch (intentRequest.Intent.Name)
+            try { 
+                if (input.GetRequestType() == typeof(LaunchRequest))
                 {
-                    case "AMAZON.CancelIntent":
-                        log.LogLine($"AMAZON.CancelIntent: enviando mensaje de cancelación.");
-                        innerResponse = new PlainTextOutputSpeech();
-                        (innerResponse as PlainTextOutputSpeech).Text = "Adios, espero que hayas pasado un buen rato.";
-                        response.Response.ShouldEndSession = true;
-                        break;
-                    case "AMAZON.StopIntent":
-                        log.LogLine($"AMAZON.StopIntent: enviando mensaje de stop.");
-                        innerResponse = new PlainTextOutputSpeech();
-                        (innerResponse as PlainTextOutputSpeech).Text = "Adios, espero que hayas pasado un buen rato.";
-                        response.Response.ShouldEndSession = true;
-                        break;
-                    case "AMAZON.HelpIntent":
-                        log.LogLine($"AMAZON.HelpIntent: enviando mensaje de ayuda");
-                        innerResponse = new PlainTextOutputSpeech();
-                        (innerResponse as PlainTextOutputSpeech).Text = "Para pedir un frase solo tienes que decir, dime una frase o cuentame una frase.";
-                        break;
-                    case "QuoteIntent":
-                        log.LogLine($"Decir chiste de chuck Norris");
-                        innerResponse = new PlainTextOutputSpeech();
-                        (innerResponse as PlainTextOutputSpeech).Text = GetQuote() ?? "En estos momentos Chuck Norris tiene problemas, inténtalo mas tarde o tendras una patada voladora.";
-                        break;
-                    default:
-                        log.LogLine($"Unknown intent: " + intentRequest.Intent.Name);
-                        innerResponse = new PlainTextOutputSpeech();
-                        (innerResponse as PlainTextOutputSpeech).Text = "No entiendo lo que me estas pidiendo, pero si sigues así te daré una patada voladora.";
-                        break;
+                    log.LogLine($"Default LaunchRequest made");
+                    innerResponse.Text = "Hola soy Chuck Norris, si quieres escuchar alguna frase o chiste solo tienes que decir, dime un chiste o cuentame una frase, de lo contrario te daré una patada voladora.";
+                }
+                else if (input.GetRequestType() == typeof(IntentRequest))
+                {
+                    var intentRequest = (IntentRequest)input.Request;
+
+                    switch (intentRequest.Intent.Name)
+                    {
+                        case "AMAZON.CancelIntent":
+                            log.LogLine($"AMAZON.CancelIntent: enviando mensaje de cancelación.");
+                            innerResponse.Text = "Lo siento, me callo, si quieres puedes pedirme otro chiste.";
+                            break;
+                        case "AMAZON.StopIntent":
+                            log.LogLine($"AMAZON.StopIntent: enviando mensaje de stop.");
+                            innerResponse.Text = "Hasta luego, espero que hayas pasado un buen rato. Guiño guiño.";
+                            response.Response.ShouldEndSession = true;
+                            break;
+                        case "AMAZON.HelpIntent":
+                            log.LogLine($"AMAZON.HelpIntent: enviando mensaje de ayuda");
+                            innerResponse.Text = "Para pedir un frase o chiste solo tienes que decir, dime una frase o cuentame un chiste.";
+                            break;
+                        case "QuoteIntent":
+                            log.LogLine($"Decir chiste de chuck Norris");
+                            innerResponse.Text = GetQuote() ?? "En estos momentos Chuck Norris tiene problemas, inténtalo mas tarde o tendras una patada voladora.";
+                            break;
+                        default:
+                            log.LogLine($"Unknown intent: " + intentRequest.Intent.Name);
+                            innerResponse.Text = "No entiendo lo que me estas pidiendo, pero si sigues así te daré una patada voladora.";
+                            break;
+                    }
                 }
 
+            }
+            catch (Exception)
+            {
+                innerResponse.Text = $"Lo siento, no te he entendido, para pedirme una frase, solo necesitas decir, dime una frase o dime un chiste. Por favor intentelo de nuevo.";
             }
             response.Response.OutputSpeech = innerResponse;
             response.Version = "1.0";
